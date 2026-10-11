@@ -15,7 +15,6 @@ I am pursuing an English-taught master's degree in Cybersecurity Engineering, fo
 | **[Sandwich Ordering App](https://github.com/Riccardo-Bartolini/Sandwich-Ordering-App)** | React, Express and SQLite application with session authentication, user-scoped order access, server-side validation and TOTP session verification. |
 | **[Periodic Task Layer for FreeRTOS](https://github.com/Riccardo-Bartolini/PTL-FreeRTOS)** | Team project extending FreeRTOS with periodic task releases, deadline monitoring and overrun policies, with a QEMU demo and regression tests. |
 | **[100 Days War](https://github.com/Riccardo-Bartolini/OOP-100Days_War)** | Java and Swing strategy game developed by a team of four. My work covered the coin system and shop interface, map rendering and tower interactions. |
-| **[Eterna Eleganza](https://github.com/Riccardo-Bartolini/Eterna-Eleganza)** | PHP, MySQL and Twig e-commerce application developed with a teammate, including customer and vendor workflows and a relational data model. |
 
 ## Technologies
 
