@@ -2,7 +2,7 @@
 
 **M.Sc. Cybersecurity Engineering student · Politecnico di Torino · Turin, Italy**
 
-I am a cybersecurity engineering master's student primarily interested in **network security and governance, risk and compliance (GRC)**. My academic projects have given me practical experience with operating systems, real-time scheduling, authentication and access control.
+I am a cybersecurity engineering master's student with a broad interest in **cybersecurity and computer science**. I enjoy understanding how systems work, solving technical problems and exploring how to make technology more secure and reliable. My academic projects have given me practical experience with operating systems, real-time scheduling, authentication and access control.
 
 I am pursuing an English-taught master's degree at Politecnico di Torino, following a B.Sc. in Computer Science and Engineering at the University of Bologna. My bachelor's thesis explored the cryptographic foundations of Bitcoin. I also gained software development experience during an internship at AREADATI.
 
@@ -49,11 +49,11 @@ Technologies used across my projects.
 
 ---
 
-## Cybersecurity Interests
+## Interests & Approach
 
-- **Network security:** protecting networks and connected systems, with an interest in traffic analysis, monitoring and incident response.
-- **Governance, Risk & Compliance (GRC):** understanding cybersecurity risk, security policies, compliance requirements and how technical controls support organizational security.
-- **Systems and software security:** operating systems, authentication, authorization and secure coding.
+- **Cybersecurity:** exploring the security of networks, systems and software, alongside risk management and security governance.
+- **Computer science and engineering:** understanding operating systems, networks and software design, and building reliable solutions.
+- **Problem-solving and collaboration:** learning through practical projects, testing ideas and contributing to a team. I am open to opportunities across cybersecurity and IT where I can keep learning and apply my technical foundations.
 
 ---
 
