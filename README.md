@@ -2,7 +2,7 @@
 
 **M.Sc. Cybersecurity Engineering student · Politecnico di Torino · Turin, Italy**
 
-I am a cybersecurity engineering master's student with interests in **systems and network security, applied cryptography and secure software**. My academic projects have given me practical experience with operating systems, real-time scheduling, authentication and access control.
+I am a cybersecurity engineering master's student primarily interested in **network security and governance, risk and compliance (GRC)**. My academic projects have given me practical experience with operating systems, real-time scheduling, authentication and access control.
 
 I am pursuing an English-taught master's degree at Politecnico di Torino, following a B.Sc. in Computer Science and Engineering at the University of Bologna. My bachelor's thesis explored the cryptographic foundations of Bitcoin. I also gained software development experience during an internship at AREADATI.
 
@@ -49,11 +49,11 @@ Technologies used across my projects.
 
 ---
 
-## Academic Interests
+## Cybersecurity Interests
 
-- **Systems and network security:** operating systems, concurrency, TCP/IP and the security of connected systems.
-- **Applied cryptography:** SHA-256, ECDSA, Schnorr signatures and Merkle trees, studied through the cryptographic foundations of Bitcoin.
-- **Software security:** authentication, authorization, input validation and secure coding.
+- **Network security:** protecting networks and connected systems, with an interest in traffic analysis, monitoring and incident response.
+- **Governance, Risk & Compliance (GRC):** understanding cybersecurity risk, security policies, compliance requirements and how technical controls support organizational security.
+- **Systems and software security:** operating systems, authentication, authorization and secure coding.
 
 ---
 
