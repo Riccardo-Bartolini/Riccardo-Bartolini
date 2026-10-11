@@ -2,7 +2,7 @@
 
 **M.Sc. Cybersecurity Engineering student · Politecnico di Torino · Turin, Italy**
 
-Cybersecurity Engineering master's student interested in the intersection of cybersecurity and software engineering. Through academic projects, I have gained hands-on experience with software development, operating systems, authentication and access control. Driven by curiosity about how technology works—and how it can be protected—I aim to contribute to secure, reliable systems while continuing to explore the wider cybersecurity field.
+Cybersecurity Engineering master's student interested in the intersection of cybersecurity and software engineering. Through academic projects, I have gained hands-on experience with software development, operating systems, authentication and access control. Driven by curiosity about how technology works and how it can be protected, I aim to contribute to secure, reliable systems while continuing to explore the wider cybersecurity field.
 
 I am pursuing an English-taught master's degree at Politecnico di Torino, following a B.Sc. in Computer Science and Engineering at the University of Bologna. My bachelor's thesis explored the cryptographic foundations of Bitcoin. I also gained software development experience during an internship at AREADATI.
 
